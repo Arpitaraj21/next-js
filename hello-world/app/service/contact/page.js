@@ -1,7 +1,7 @@
-export default function ContactService(){
+export default function Contact(){
     return(
         <>
-        <h1>contact service page</h1>
+        <h1>Contact Items</h1>
         </>
     )
 }
